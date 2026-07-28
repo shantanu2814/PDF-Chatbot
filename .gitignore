@@ -1,0 +1,13 @@
+# Environment variables (API Keys)
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets (if deploying)
+.streamlit/secrets.toml
